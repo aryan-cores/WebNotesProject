@@ -4,7 +4,7 @@
 A simple notes website built using HTML and CSS. This project helps to display notes in a clean and organized way.
 
 Live
-https://aryan-web-devops.github.io/WebNotesProject/
+ https://aryan-cores.github.io/WebNotesProject/
 
  Tech Used
 - HTML
